@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! Soy Martín Roige 👋
 
-<!--
-**TinchoHub/TinchoHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Desarrollador Web / Software** radicado en Buenos Aires, Argentina.  
+Apasionado por el desarrollo de aplicaciones completas, la resolución de problemas y el aprendizaje continuo de nuevas tecnologías.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+**Backend & Bases de Datos:**
+`C#` | `.NET` | `Node.js` | `Express` | `MySQL`
+
+**Frontend:**
+`React` | `JavaScript` | `HTML5` | `CSS3`
+
+**Herramientas & Entorno:**
+`Git` | `GitHub` | `VS Code` | `Postman`
+
+---
+
+### 📬 Conéctate conmigo
+
+* **LinkedIn:** [tu-usuario](https://linkedin.com/in/martin-roige)
+* **Email:** [tu-email@dominio.com](mailto:martinroige@hotmail.com)

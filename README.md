@@ -33,10 +33,3 @@ Apasionado por el desarrollo de aplicaciones completas, la resolución de proble
 
 * **LinkedIn:** [tu-usuario](https://linkedin.com/in/martin-roige)
 * **Email:** [tu-email@dominio.com](mailto:martinroige@hotmail.com)
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TinchoHub&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinchoHub&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="150" />
-</p>
